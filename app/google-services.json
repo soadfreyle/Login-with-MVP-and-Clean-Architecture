@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "807387297216",
+    "project_id": "loginmvp-aff23",
+    "storage_bucket": "loginmvp-aff23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807387297216:android:cd937c2abc08eca6580425",
+        "android_client_info": {
+          "package_name": "com.example.loginmvp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807387297216-0bkvkb0n85vl5md3qrfv9peu5oimvk3s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoh3mVDPYkNxU0jnAilzC7-mOl_FdVwhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807387297216-0bkvkb0n85vl5md3qrfv9peu5oimvk3s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
