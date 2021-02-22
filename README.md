@@ -6,7 +6,7 @@
 4-Ya creado el proyecto selecciona, android.
 5-en la seccion Añadir Firebase a una aplicacion de Android, registra 
 la aplicacion con el nombre que se encuentra en el archivo manifests
-com.example.ciclodevidaactivity2
+com.example.loginmvp
 6-Coloca apodo al proyecto.
 7-Registra la aplicacion.
 8-Da click en siguiente por que ya se descargaron los archivos de configuracion en el 
